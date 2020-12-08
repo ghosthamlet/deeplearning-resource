@@ -16,6 +16,7 @@
 
 ### 社区
     机器学习前沿动态社区，需要翻墙：https://www.reddit.com/r/MachineLearning/
+    上面第一本深度学习书籍和视频的论坛 ：https://forums.fast.ai/
     机器学习问答网站：https://stats.stackexchange.com/
     人工智能问答网站：https://ai.stackexchange.com/
     数学问答网站：https://math.stackexchange.com/
